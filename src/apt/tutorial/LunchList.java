@@ -2,6 +2,8 @@ package apt.tutorial;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
 
 public class LunchList extends Activity {
     Restaurant r=new Restaurant();
